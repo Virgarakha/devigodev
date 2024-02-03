@@ -54,7 +54,6 @@ nav {
 
 body {
   background-color: #ffffff;
-  min-height: 200vh;
 }
 
 .nav-links li {
@@ -291,7 +290,7 @@ body {
   
   .welcome img {
     width: 100%;
-    margin-top: 0px;
+    margin-top: -20px;
   }
   .welcome2 img {
     width: 100%;
